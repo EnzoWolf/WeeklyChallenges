@@ -83,3 +83,25 @@ C:/Users/Chip/source/repos/Mark8ChallengesWithTests/ChallengesWithTestsMark8.Tes
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.csproj.CopyComplete
 /Users/michaeldoyle/repos/Mark13/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/netcoreapp2.1/ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.deps.json
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.json
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.deps.json
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.runtimeconfig.json
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.runtimeconfig.dev.json
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.dll
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.pdb
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.csproj.CopyComplete
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.dll
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.pdb
+E:\repos\.NET Core\WeeklyChallenges\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
